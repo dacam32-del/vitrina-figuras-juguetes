@@ -10,7 +10,7 @@ Cada ficha trae fotos, personaje, marca o franquicia, línea o serie, número en
 - Calculadora/carrito flotante para ir sumando piezas.
 - Música de fondo: "Fluffing a Duck" de Kevin MacLeod (incompetech.com), licencia CC BY 4.0.
 
-**Totales:** 31 Fichas 31 Unidades $224.000 – $400.000 (CLP, venta Chile)
+**Totales:** 32 Fichas 32 Unidades $227.000 – $406.000 (CLP, venta Chile)
 
 ## 🛒 Tienda web
 **[https://dacam32-del.github.io/vitrina-figuras-juguetes/](https://dacam32-del.github.io/vitrina-figuras-juguetes/)**
